@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uyuwuaki.github.io/BSa/sitemap_index.txt
+Sitemap: https://uyuwuaki.github.io/gFW/sitemap_index.txt
+Sitemap: https://uyuwuaki.github.io/wGt/sitemap_index.txt
+Sitemap: https://uyuwuaki.github.io/yBN/sitemap_index.txt
